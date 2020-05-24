@@ -9,3 +9,15 @@
 	justify-content: space-between;
 	padding: 28px 48px 0 ;
 }
+
+@media (max-width: 768px) {
+  .header {
+    padding: 28px 24px 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .header {
+    padding: 16px 16px 0;
+  }
+}

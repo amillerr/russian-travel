@@ -1,0 +1,9 @@
+.place__text {
+	    transform: translateY(-4px);
+}
+
+@media (max-width: 320px) {
+	.place__text {
+		padding: 0 16px 0;
+	}
+}
