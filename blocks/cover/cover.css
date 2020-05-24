@@ -8,15 +8,21 @@
 	position: relative;
 }
 
+@media (max-width: 1024px) {
+  .cover {
+    margin: 92px 0 0;
+  }
+}
+
 @media (max-width: 768px) {
   .cover {
-    margin: 88px auto 0 auto;
+    margin: 88px auto 0;
   }
 }
 
 
 @media (max-width: 320px) {
   .cover {
-    margin: 64px auto 0 auto;
+    margin: 64px auto 0;
   }
 }
