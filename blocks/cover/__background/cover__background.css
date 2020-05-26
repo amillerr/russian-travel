@@ -1,7 +1,0 @@
-.cover__background {
-	width: 100%;
-  background-image: url('../../../images/cover/cover__bg.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  padding-bottom: calc(100% / 1.6);
-}

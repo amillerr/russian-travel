@@ -3,6 +3,10 @@
 	font-weight: normal;
 	font-size: 18px;
 	line-height: 22px;
-	transition: opacity 0.25s;
+	transition: opacity 0.2s;
 	cursor: pointer;
+}
+
+.place__link {
+	opacity: 0.8;
 }

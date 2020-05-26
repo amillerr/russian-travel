@@ -2,10 +2,9 @@
 	margin-right: 18px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 618px) {
   .footer__link-item {
-    margin-right: 0px;
-    margin-bottom: 32px;
+    margin: 0 0 32px;
   }
   .footer__link-item:last-of-type {
     margin-bottom: 0;
