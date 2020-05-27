@@ -1,7 +1,6 @@
 .lead__image {
-	display: block;
+  background-size: cover;
   margin-top: 64px;
-  max-width: 100%;
   width: 100%;
 }
 
