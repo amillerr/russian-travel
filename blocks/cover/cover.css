@@ -14,7 +14,6 @@
   .cover {
     margin: 92px 0 0;
     max-width: calc((62.5% - 250px)/2) 0;
- 
   }
 }
 
@@ -22,11 +21,9 @@
   .cover {
     margin: 88px auto 0;
     max-width: calc((62.5% - 200px)/2) 0;
-   
   }
 }
 
-@media
 
 @media screen and (max-width:424px) {
   .cover {

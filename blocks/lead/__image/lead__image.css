@@ -3,7 +3,6 @@
   margin-top: 64px;
   max-width: 100%;
   width: 100%;
-
 }
 
 @media (max-width: 1024px) {
@@ -12,10 +11,8 @@
   }
 }
 
-}
 @media (max-width: 320px) {
   .lead__image {
     margin-top: 40px;
-  
   }
 }

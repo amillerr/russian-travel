@@ -8,9 +8,7 @@
   margin: 0 auto;
 	padding: 56px 0 0;
 	color: #ffffff;
-  width: calc((100vw - 1024px) / (1280 - 1024) * (984 - 928) + 928px);
   max-width: 984px;
-
 	display: flex;
 	flex-direction: column;
 	align-items: center;
