@@ -8,7 +8,7 @@
 @media (min-width: 321px) and (max-width: 618px) {
   .footer__copyright {
     align-self: center;
-  }
+	}
 }
 
 @media screen and (max-width: 320px) {

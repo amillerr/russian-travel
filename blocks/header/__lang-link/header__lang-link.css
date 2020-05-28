@@ -2,18 +2,18 @@
 	text-decoration: none;
 	color: #FFFFFF;
 	font-size: 24px;
-	line-height: 28px;
 	font-weight: normal;
 	transition: opacity 0.25s;
+	line-height: 28px;
 }
 
 .header__lang-link:hover {
 	opacity: 0.8;
 }
 
-@media (max-width: 320px) {
-  .header__lang-link {
-    font-size: 18px;
-    line-height: 24px;
-  }
+@media screen and (max-width: 425px) {
+	.header__lang-link {
+		font-size: 18px;
+	  line-height: 24px;
+	}
 }
