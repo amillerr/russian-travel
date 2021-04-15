@@ -2,8 +2,6 @@
 
 ____
 
-[![N|Solid](https://pictures.s3.yandex.net/animation_topic/logo.svg)](https://praktikum.yandex.ru/)
-
 
 Третий самостоятельный проект : [Путешествия по России](https://amillerr.github.io/russian-travel/).
 
